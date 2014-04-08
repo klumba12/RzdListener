@@ -1,0 +1,10 @@
+*.dll
+packages
+
+/RzdListener/*.user
+
+Release
+
+Debug
+
+*.suo
